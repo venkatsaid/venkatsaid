@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫About Me :
 🔭 I’m currently working on Full Stack Application Dev
 👯 I’m looking to collaborate on Open Source projects
 🤝 I’m looking for help with System Design and Blockchain
